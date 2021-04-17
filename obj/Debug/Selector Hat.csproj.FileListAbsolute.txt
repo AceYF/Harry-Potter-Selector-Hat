@@ -1,0 +1,15 @@
+C:\Users\YAGOFELIPEMARQUESTAV\source\repos\Selector Hat\Selector Hat\bin\Debug\Selector Hat.exe.config
+C:\Users\YAGOFELIPEMARQUESTAV\source\repos\Selector Hat\Selector Hat\bin\Debug\Selector Hat.exe
+C:\Users\YAGOFELIPEMARQUESTAV\source\repos\Selector Hat\Selector Hat\bin\Debug\Selector Hat.pdb
+C:\Users\YAGOFELIPEMARQUESTAV\source\repos\Selector Hat\Selector Hat\obj\Debug\Selector Hat.csprojAssemblyReference.cache
+C:\Users\YAGOFELIPEMARQUESTAV\source\repos\Selector Hat\Selector Hat\obj\Debug\Selector_Hat.Form1.resources
+C:\Users\YAGOFELIPEMARQUESTAV\source\repos\Selector Hat\Selector Hat\obj\Debug\Selector_Hat.Properties.Resources.resources
+C:\Users\YAGOFELIPEMARQUESTAV\source\repos\Selector Hat\Selector Hat\obj\Debug\Selector Hat.csproj.GenerateResource.cache
+C:\Users\YAGOFELIPEMARQUESTAV\source\repos\Selector Hat\Selector Hat\obj\Debug\Selector Hat.csproj.CoreCompileInputs.cache
+C:\Users\YAGOFELIPEMARQUESTAV\source\repos\Selector Hat\Selector Hat\obj\Debug\Selector Hat.exe
+C:\Users\YAGOFELIPEMARQUESTAV\source\repos\Selector Hat\Selector Hat\obj\Debug\Selector Hat.pdb
+C:\Users\YAGOFELIPEMARQUESTAV\source\repos\Selector Hat\Selector Hat\obj\Debug\Selector_Hat.app.resources
+C:\Users\YAGOFELIPEMARQUESTAV\source\repos\Selector Hat\Selector Hat\obj\Debug\Selector_Hat.inicio.resources
+C:\Users\YAGOFELIPEMARQUESTAV\source\repos\Selector Hat\Selector Hat\bin\Debug\aa\Selector Hat.resources.dll
+C:\Users\YAGOFELIPEMARQUESTAV\source\repos\Selector Hat\Selector Hat\obj\Debug\Selector_Hat.app.aa.resources
+C:\Users\YAGOFELIPEMARQUESTAV\source\repos\Selector Hat\Selector Hat\obj\Debug\aa\Selector Hat.resources.dll
